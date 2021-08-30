@@ -2,7 +2,7 @@
 my solution, recursive approach, passes all test cases. 
 
 
-Leetcode Challenge:
+Leetcode Medium difficulty Challenge:
 "Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 
  
