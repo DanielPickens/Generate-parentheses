@@ -1,5 +1,5 @@
 # Generate-parenthesis-js-solution
-my solution, recursive approach
+my solution, recursive approach, passes all test cases. 
 
 
 Leetcode Challenge:
