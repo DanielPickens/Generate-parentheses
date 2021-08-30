@@ -1,4 +1,4 @@
-var generateParenthesis = function(n) {
+let generateParenthesis = function(n) {
 let ansSet = ([]);
 (function (s, e) { if (s.indexOf(e) == -1) {
                     s.push(e);
